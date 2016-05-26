@@ -19,7 +19,6 @@
   "noempty": true,
   "node": true,
   "nonbsp": true,
-  "nonew": true,
   "noyield": true,
   "predef": [],
   "quotmark": "single",

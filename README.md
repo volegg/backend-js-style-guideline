@@ -39,43 +39,9 @@
 
 # Linting #
 
-Use JSHint to detect errors and potential problems. The options for JSHint are stored in a .jshintrc file, all options must be alphabetized.
+Use [JSHint](http://jshint.com/docs/options/) to detect errors and potential problems. The options for JSHint are stored in a .jshintrc file, all options must be alphabetized.
 
-[JSHint Options](http://jshint.com/docs/options/)
-
-```js
-{
-  "asi": true,
-  "bitwise": false,
-  "browser": true,
-  "curly": true,
-  "devel": true,
-  "eqeqeq": true,
-  "esversion": 6,
-  "expr": true,
-  "forin": true,
-  "immed": true,
-  "indent": 4,
-  "latedef": "nofunc",
-  "maxdepth": 3,
-  "maxlen": 120,
-  "moz": true,
-  "newcap": true,
-  "noarg": true,
-  "noempty": true,
-  "node": true,
-  "nonbsp": true,
-  "nonew": true,
-  "noyield": true,
-  "predef": [],
-  "quotmark": "single",
-  "strict": true,
-  "sub": true,
-  "unused": true,
-  "undef": true,
-  "varstmt": true
-}
-```
+[JSHint Options](https://raw.githubusercontent.com/volegg/backend-js-style-guideline/master/.jshintrc)
 
 # Code style considerations #
 
